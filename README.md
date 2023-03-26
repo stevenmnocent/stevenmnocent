@@ -8,8 +8,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/stevennocent/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/stevennocent/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/stevennocent/azure-network-protocols)
   - [DNS Management of A-Records, CNMAE Records and Local DNS Cache](https://github.com/stevennocent/dns-management)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/stevennocent/azure-network-protocols)
 - <b>Virtual Private Networks (VPNs)</b>
   - [Proton VPN: Installation and Set Up](https://github.com/stevennocent/vpn-config)
 
