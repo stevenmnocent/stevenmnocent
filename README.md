@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/stevenmnocent/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/stevenmnocent/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/stevenmnocent/configure-ad)
+  - [Configuring On-Premises Active Directory within Azure VMs](https://github.com/stevenmnocent/configure-ad)
   - [DNS Management of A-Records, CNMAE Records and Local DNS Cache](https://github.com/stevenmnocent/dns-management)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/stevenmnocent/azure-network-protocols)
 - <b>Virtual Private Networks (VPNs)</b>
