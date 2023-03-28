@@ -13,7 +13,7 @@
 - <b>Virtual Private Networks (VPNs)</b>
   - [Proton VPN: Installation and Set Up](https://github.com/stevenmnocent/vpn-config)
 
-<h2>📲Connect with me:</h2>
+<h2>📲 Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 
