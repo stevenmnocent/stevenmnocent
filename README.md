@@ -17,4 +17,4 @@
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" />][linkedin]
 
-[linkedin]: https://linkedin.com/in/stevennocent
+[linkedin]: https://linkedin.com/in/steven-nocent
